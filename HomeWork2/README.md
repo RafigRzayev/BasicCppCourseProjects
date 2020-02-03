@@ -15,5 +15,5 @@ Solve following problems:
 
 7) Calculate number of 1s in bit representation of number
 
-8) For number n, and index i, check if index at binary representation of n is corresponds to 1
+8) For number n, and index i, check if index at binary representation of n corresponds to 1
 
